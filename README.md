@@ -30,9 +30,9 @@ Health organizations, or insurance companies might encourage individuals to mana
 
 4. `cd` into this newly created directory
 
-5. Open the `manifest.yml` file and change the `host` value to something unique.
+5. Open the `manifest.yml` file and change the `name` value to something unique.
 
-  The host you choose will determinate the subdomain of your application's URL:  `<host>.mybluemix.net`
+  The host you choose will determinate the subdomain of your application's URL:  `<name>.mybluemix.net`
 
 6. Connect to Bluemix in the command line tool and follow the prompts to log in
 
